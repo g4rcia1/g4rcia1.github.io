@@ -1,1 +1,2 @@
-# g4rcia1.github.io
+# TechNews
+site em sua versao beta
